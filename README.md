@@ -36,13 +36,8 @@ CompuWork/
 
 ## 👨‍🏫 Proyecto académico
 
-Desarrollado para la asignatura de Programación Orientada a Objetos en la institución **IUDigital**, primer semestre de 2025.
+Desarrollado para la asignatura de Programación Orientada a Objetos en la institución **IUDigital**.
 
-## 👥 Integrantes del grupo
+## 👥 Actividad entregada por: 
 
 - Julián Isaza
-(Agregar más nombres si aplica)
-
----
-
-**Nota:** Este proyecto es parte de una actividad universitaria y no será utilizado con fines comerciales.
